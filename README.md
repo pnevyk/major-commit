@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ npm install major-commit
+$ npm install -g major-commit
 ```
 
 ## Usage
